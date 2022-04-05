@@ -19,3 +19,4 @@ class Config(object):
     DB = "mongodb+srv://satya:s4tya@cluster0.rrqhs.mongodb.net/utyfky?retryWrites=true&w=majority"
     CHAT_ID = -1001724430366
     LOG_CHANNEL = -1001753919095
+    DATABASE_URL = "mongodb+srv://satya:s4tya@cluster0.rrqhs.mongodb.net/utyfky?retryWrites=true&w=majority"
