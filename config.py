@@ -4,7 +4,8 @@ class Config(object):
     TG_BOT_TOKEN = "5217702275:AAH0KwikoXAzjEc7qO8V9XiH1-gnTAVnFF4"
     APP_ID = 2171111
     API_HASH = "fd7acd07303760c52dcc0ed8b2f73086"
-    AUTH_USERS = set(int(x) for x in ().split())
+    AUTH_USERS = set(int(x) for x in (1089528685).split())
+    OWNER_ID = 1089528685
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     MAX_FILE_SIZE = 50000000
     TG_MAX_FILE_SIZE = 2097152000
