@@ -1,9 +1,9 @@
 import os
 
 class Config(object):
-    TG_BOT_TOKEN = "5217702275:AAH0KwikoXAzjEc7qO8V9XiH1-gnTAVnFF4"
-    APP_ID = 2171111
-    API_HASH = "fd7acd07303760c52dcc0ed8b2f73086"
+    TG_BOT_TOKEN = "5217702275:-gnTAVnFF4"
+    APP_ID = 
+    API_HASH = ""
     AUTH_USERS = 1089528685
     OWNER_ID = 1089528685
     DOWNLOAD_LOCATION = "./DOWNLOADS"
@@ -16,8 +16,8 @@ class Config(object):
     MAX_MESSAGE_LENGTH = 4096
     PROCESS_MAX_TIMEOUT = 3600
     DEF_WATER_MARK_FILE = ""
-    DB = "mongodb+srv://satya:s4tya@cluster0.rrqhs.mongodb.net/utyfky?retryWrites=true&w=majority"
+    DB = "mongodb+srv:"
     CHAT_ID = -1001724430366
     LOG_CHANNEL = -1001753919095
-    DATABASE_URL = "mongodb+srv://satya:s4tya@cluster0.rrqhs.mongodb.net/utyfky?retryWrites=true&w=majority"
+    DATABASE_URL = "mongodb+srv://"
     SESSION_NAME = "emora"
